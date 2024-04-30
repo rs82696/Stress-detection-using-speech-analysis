@@ -5,9 +5,12 @@ INTRODUCTION
 DATASET
 The datasets used in the prediction of stress was RAVDESS dataset. It is not an easy task to find a database that can classify into stressed or unstressed conditions based on different audio clips from the same speaker. In this project we used a multi-modal database for use in stress-related research using audio-visual that is speech and video dataset named as RAVDESS. Since our focus was primarily based on stress detection in women, we further reduced the usage of the database by considering audio clips of only women. The audio clips of men were excluded in our model.
 Link : https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
+
 TOOLS
 •	Jyputer Notebook
 •	Pycharm
+
 
 
 
@@ -16,6 +19,8 @@ TECHNOLOGIES
 		- Convolutional neural network Algorithm
 		- Librosa Python Libraries
                        - MFCC’s Co-efficient Extraction
+
+
 
 Algorithm:
 Step-1: Reading the dataset 
